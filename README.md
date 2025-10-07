@@ -1,4 +1,4 @@
-# Detectron2 for Incremental Object Detection
+# RICO-Benchmark and Detectron2 for Incremental Object Detection
 
 > **This repository holds the framework and evaluation code for the ICCV Workshops 2025 Paper *"RICO: Two Realistic Benchmarks and an In-Depth Analysis for Incremental Learning in Object Detection"*.**  
 >  
@@ -225,6 +225,6 @@ A folder named d_rico and ec_rico should hold all the JSON files.
 
 ## License
 
-PROJECT-NAME is open-sourced under the AGPL-3.0 license. See the [LICENSE](LICENSE) file for details.
+This repository is open-sourced under the AGPL-3.0 license. See the [LICENSE](LICENSE) file for details.
 
 For a list of other open source components included in PROJECT-NAME, see the file [3rd-party-licenses.txt](3rd-party-licenses.txt).
